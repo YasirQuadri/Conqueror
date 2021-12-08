@@ -1,0 +1,88 @@
+*Conqueror*
+The game is played on a 6*6 board and the objective of the players is to be the last emperor standing, by capturing all opponents corners or making them surrender. The map is covered in fog making it impossible to know what resources lie there. As the units of a player moves through the fog , a die will be rolled and the resources of the tile will be revealed. You will need to move through thick fog, mine the resources, create forts create alliances with other players, declare war and defeat their troops to be the last emperor standing.
+
+Rules:
+1. Each player starts in one corner of the 6*6 board , upto 2 or 4 players can play.
+2. Each player gets 2 action point per turn.
+3. Each player starts with a soldier.
+5. A player can move 1 or multiple soldiers(max 6) together on the map by giving 1ap.
+6. If player stations unit: soldiers , the player will get resource bonus depending on the tile they are on.
+9. player can choose to create a fort on the tile , if the fort was created, player will be able to get the tile resources without stationing units there.
+10. Player can choose to fortify the fort further making it more durable by using the required resources.
+11. The center of the map is called central point.
+  a. In central point the player who discovers the region gets to decide the resource on the tile.
+  b. Player who stationed unit: Soldier or build fort on the central point get 1 ap when they station there and from that point they get 1 ap per 5 turns
+ c. The central point has bounty depending on the number of players playing (max 4) , when one captures the cp they get 1 ap , when other players recapture the cp they get  2 ap and so on it can go till 4 points then no bonus will be awarded on recapturing.
+12. Trade: in trade a player can choose to trade anything they can like units , forts, resources, or even loan player their resources on the decided number of turns.
+13.Units : all units cost 2 gold, they can move bordering tiles depending on their movement cost (requires ap) and you can move your units more than once per turn depending on the amount of ap you have. You can choose to attack units but if the same units attack each other both of them die unless you use boosted attack(costs ap)
+14. After each Aher has played 10 turns , the amount of ap awarded per turn is changed to 2 .
+15. Units: soldiers- 
+atk =2 
+health =2
+Movement cost = 2 ap
+
+Units: scouts-
+Atk= 1
+Health =1
+Movement cost = 1ap
+
+For all units : attack cost  = 1 ap
+Boosted atk cost = 2 ap:
+raises attack by 1 point. Cannot be stacked.
+
+
+
+
+
+
+
+Battle:                                                                                                                                                                                                   
+the battle system is fairly simple , the one with more power defeats the other.                                                         Example 1:            soldier vs scout                                                                                                      if a unit: soldier chooses to attack scout the battle takes places as follows:                                                              oldier with power of 2 vs  scout with power 1 , in this case soldier > scout so scout is removed from the board and soldier takes its position.                                                                                                                                                                                            
+Example 2:         soldier vs soldier and scout vs scout                                                                                    in soldier vs soldier  both have power 2 , in this case soldier = soldier so both units will be defeated and removed from the board , in the same way in scout vs scout (1=1) so both scouts will be defeated.                                                                                                                                                                                                          
+Example 3:   (using boosted attacks)  scout+ vs scout , scout+ vs soldier , soldier+ vs soldier                                             in scout+ vs scout , scout+ has power 2 and scout has power 1 so 2>1 and scout+ will defeat scout and move on its position                  in scout+ vs soldier as both have power 2 both are defeated.                                                                                in soldier+ vs soldier as solider+ has power 3 it will defeat soldier and take its position.
+
+
+
+*Conqueror 1.1*
+The game is played on a 6*6 board and the objective of the players is to be the last emperor standing, by capturing all opponents corners or making them surrender. The map is covered in fog making it impossible to know what resources lie there. As the units of a player moves through the fog , a die will be rolled and the resources of the tile will be revealed. You will need to move through thick fog, mine the resources, create forts create alliances with other players, declare war and defeat their troops to be the last emperor standing.
+
+Rules:
+1. Each player starts in one corner of the 6*6 board , upto 2 or 4 players can play.
+2. Each player gets 2 action point per turn.
+3. Each player starts with a soldier.
+5. A player can move 1 or multiple soldiers(max 6) together on the map by giving 1ap.
+6. when a soldier moves on undiscovered tile(only 6 soldiers max can be present on a tile), randomiser is run and the resource of the location is shown.
+7. The player will get resource bonus on the tile their soldiers are placed on.
+8. player can declare battle on opponent soldiers or fort by moving on that tile.
+9. player can create a fort on the tile soldiers are so that they can get resources without putting soldiers on there
+10. fort can only have 4 soldiers on it but you can move a stack(6 soldiers) through it if you have ap.
+11.a fort without soldier can be captured and destroyed by opponent soldier without a battle, the one who captures the fort gains 1 gold and 1 lumber.
+12.when there is atleast 1 soldier on fort , the fort is treated as 2 soldiers in battle. 
+13.when opponent battles and wins against a fort the fort will remain in its position but the soldiers will all go away(opponent can recapture fort by moving on the tile again.
+14.The battle is randomized and the one with more soldiers have a greater stats and chances of winning , for equal number of soldiers the stats are 50/50
+15.When a player wins battle the opponent soldiers are removed from the game and the winner looses half of their soldiers.
+16.If winner has odd numbers of soldiers, the choice to remove one more soldier will be decided by dice.
+17.to win player must defeat opponents base , for that the player needs to go near the base and attack it, the base isnt defendable and the soldiers on it are excluded from battle.
+18.when a player attack base they need minimun of 4 soldiers to inflict any damage, the enemy base has 5 hp.
+19. all battles against the base have stats 50/50 the more soldier attacking the more damage base recieves, 4s = 1damage, 5s =2d, 6s =3d.
+20. the rules for battle against base are same like others, the winner looses half soldiers and if player looses all the soldiers are removed from board
+21. after players have played 10 rounds they will recieve 4 ap per turn and after 15 rounds they get 5 ap per turn.
+22. player cannot have more than 5 ap, gold ,lumber. 
+23. player cannot build more than 4 forts.
+24. player can destroy its own fort if they want to.
+25. resources can be exchanged for others, 1 ap will give 2 gold and 2 lumber will give 1 gold
+26. the 3*3 area near every player base can only get 3 blank resources max.
+27. when a stack of 6 soldiers fight a single soldier and win the stackof 6 will not loose any units.
+28. when a single soldier wins any battle , it will remain on the field.
+
+
+dice:
+this will discuss the current battle stats and how to check it using dice.
+the stats are understandable by basic logic of setting.
+if 1 soldier fights more than 2 soldiers , the chances of its winning are low so only one number of dice will be given to that soldier randomly, if that number rolls when rolling , the 1 soldier wins and all opponents die, if it looses the 1 soldier is removed from field.
+similarly if one player is fighting with soldiers twice its size it will only get one number of the dice.
+if equal number of soldiers fight each other the outcome is 50/50 and any one of them will choose 3 numbers from the dice randomly , and the player whose number is rolled will win.
+if one player is fighting soldier which are atmost twice or of its size , the player with lower soldier will get 2 numbers randomly and the other will get the remaining 4.
+
+Soldiers: cost to make 1 gold , cost to move 1ap
+forts: cost to make 3g 3l 2ap
