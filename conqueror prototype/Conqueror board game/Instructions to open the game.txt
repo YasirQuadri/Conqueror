@@ -1,0 +1,6 @@
+1. open https://playingcards.io/import on your pc browser or phone browser.
+2. upload the .pico file provided in the folder.
+3. to play this multiplayer you will need to send your friends invite by clicking the share room option.
+4. the website i use for this is just for basic design based on drag and drop card games so your friends can move your soldiers if they drag them. the only thing they cannot see or control is your hand on the bottom left section which is seperate for each individual player .
+5. the game lasts for 2 to 3 hours average 
+6. if you want to continue the game you can join the room again using the same device and your hand and the state of the board will be saved for 30 days.
